@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiqZEcHfbqrJInlGeqyVKUGB4tRQxviWE1UVCAqiQONED5P0TTEGqXSXNr3okCsiYz6Fbe70HS/7jb0AO9j51g==",
+  "success": true,
+  "projectFilePath": "/Users/cio/Shachi/CSharpProjects/BuyAndSellHouse/BuyAndSellHouse/BuyAndSellHouse.csproj",
+  "expectedPackageFiles": [
+    "/Users/cio/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
